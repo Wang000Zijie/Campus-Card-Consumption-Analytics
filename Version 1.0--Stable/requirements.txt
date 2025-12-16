@@ -1,0 +1,11 @@
+# 数据分析与处理
+pandas>=2.0.0
+numexpr>=2.8.0  # Pandas 加速库，用于优化数值计算性能
+
+# 数据可视化
+matplotlib>=3.7.0
+
+# 注意：
+# 1. tkinter 是 Python 标准库的一部分，通常无需单独安装。
+#    如果在某些 Linux 发行版上报错，请尝试安装 python3-tk (例如: sudo apt-get install python3-tk)
+# 2. sqlite3 也是 Python 标准库的一部分。
